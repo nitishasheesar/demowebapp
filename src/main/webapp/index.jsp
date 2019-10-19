@@ -13,7 +13,7 @@
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Welcome to all leaders Nitish and Akshay on behalf of Infinito Solutions</h2>
       
-<center><img src="http://www.infinitotek.com/wp-content/uploads/2018/02/dev-ops-header-1.jpg" width=50% hight=50%>
+<center><img src="http://1.bp.blogspot.com/-fPsV-HoVFZQ/UgDUkeRGBYI/AAAAAAAAAFo/FOd7dauoJng/s1600/Beautiful+Nature+Desktop+Wallpapers+%25283%2529.jpg" width=50% hight=50%>
  </center> </div>
 </body>
 </html>
